@@ -41,7 +41,7 @@ Thanks for __[Mr. Gu Yang](https://github.com/MyIDis12138)__ and __[Mr. Xu Mingh
 
    references: 
    
-      Install Docker Engine on Ubuntu: https://github.com/MinghongAlexXu/CARLA-ROS-dev-env
+      https://github.com/MinghongAlexXu/CARLA-ROS-dev-env
 
 ## Desktop Version Installation
 
