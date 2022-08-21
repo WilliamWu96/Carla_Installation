@@ -1,5 +1,7 @@
 # Carla_Installation
 
+Thanks for Gu Yang and Xu Minghong's contribution to this installation tutorial! 
+
 ## Prerequisites
 **System requirements**: 
 
