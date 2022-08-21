@@ -1,6 +1,6 @@
 # Carla_Installation
 
-Thanks for __Gu Yang__ and __Xu Minghong__'s contribution to this installation tutorial! 
+Thanks for __[Gu Yang](https://github.com/MyIDis12138)__ and __[Xu Minghong](https://github.com/MinghongAlexXu)__'s contribution to this installation tutorial! 
 
 ## Prerequisites
 **System requirements**: 
